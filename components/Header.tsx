@@ -62,6 +62,7 @@ const Header: React.FC<HeaderProps> = (
                     >
                         <RxCaretLeft size={35}/>
                     </button>
+                    
                     <button 
                      onClick={() => router.forward()}
                         className="
